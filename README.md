@@ -5,7 +5,7 @@ This is a project template for [Svelte](https://svelte.dev) and [Hugo](https://g
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit datwood/hugo-svelte hugo-svelte
+npx degit git@gitlab.com:datwood/hugo-svelte.git hugo-svelte
 cd hugo-svelte
 ```
 
