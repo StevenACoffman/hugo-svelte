@@ -1,6 +1,6 @@
 # Hugo-Svelte app
 
-This is a project template for [Svelte](https://svelte.dev) and [Hugo](https://gohugo.io) apps. It lives at https://github.com/datwood/hugo-svelte.
+This is a project template for [Svelte](https://svelte.dev) and [Hugo](https://gohugo.io) apps. It lives at https://gitlab.com/datwood/hugo-svelte.
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
