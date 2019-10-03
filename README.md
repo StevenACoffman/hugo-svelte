@@ -17,11 +17,11 @@ cd hugo-svelte
 Install the dependencies...
 
 ```bash
-cd svelte-app
+cd hugo-svelte
 npm install
 ```
 
-...then start [Rollup](https://rollupjs.org):
+...then start [Rollup](https://rollupjs.org) and Hugo:
 
 ```bash
 npm run dev
