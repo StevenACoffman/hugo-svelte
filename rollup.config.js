@@ -4,7 +4,6 @@ import commonjs from 'rollup-plugin-commonjs';
 import { terser } from 'rollup-plugin-terser';
 
 const production = !process.env.ROLLUP_WATCH;
-const hugo = production ? 'hugo' : 'hugo server --bind=0.0.0.0 -D';
 
 export default {
 	input: 'svelte/main.js',
